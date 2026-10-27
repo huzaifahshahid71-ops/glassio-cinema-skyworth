@@ -1,0 +1,182 @@
+{
+  "depth-bangkok.jpg": {
+    "title": "Bangkok skyline",
+    "clock": {
+      "x": 0.43,
+      "y": 0.48,
+      "font": 0.44,
+      "width": 0.48,
+      "date": 0.105,
+      "dark": false
+    },
+    "mask": "masks/depth-bangkok.png"
+  },
+  "depth-architecture.jpg": {
+    "title": "Modern architecture",
+    "clock": {
+      "x": 0.7000000000000001,
+      "y": 0.48,
+      "font": 0.42,
+      "width": 0.44,
+      "date": 0.105,
+      "dark": true
+    },
+    "mask": "masks/depth-architecture.png"
+  },
+  "depth-dubai.jpg": {
+    "title": "Dubai and Burj Khalifa",
+    "clock": {
+      "x": 0.5,
+      "y": 0.49,
+      "font": 0.43,
+      "width": 0.49,
+      "date": 0.105,
+      "dark": false
+    },
+    "mask": "masks/depth-dubai.png"
+  },
+  "depth-cube-buildings.jpg": {
+    "title": "Rotterdam cube buildings",
+    "clock": {
+      "x": 0.5,
+      "y": 0.7,
+      "font": 0.36,
+      "width": 0.47,
+      "date": 0.3,
+      "dark": false
+    },
+    "mask": "masks/depth-cube-buildings.png"
+  },
+  "depth-desert-lake.jpg": {
+    "title": "Desert lake",
+    "clock": {
+      "x": 0.5,
+      "y": 0.49,
+      "font": 0.44,
+      "width": 0.47,
+      "date": 0.105,
+      "dark": true
+    },
+    "mask": "masks/depth-desert-lake.png"
+  },
+  "depth-balanced-rocks.jpg": {
+    "title": "Balanced desert rocks",
+    "clock": {
+      "x": 0.5,
+      "y": 0.51,
+      "font": 0.44,
+      "width": 0.55,
+      "date": 0.105,
+      "dark": false
+    },
+    "mask": "masks/depth-balanced-rocks.png"
+  },
+  "depth-golden-dune.jpg": {
+    "title": "Golden desert dune",
+    "clock": {
+      "x": 0.76,
+      "y": 0.35000000000000003,
+      "font": 0.2728,
+      "width": 0.33440000000000003,
+      "date": 0.105,
+      "dark": false
+    },
+    "mask": "masks/depth-golden-dune.png"
+  },
+  "depth-milky-way.jpg": {
+    "title": "Milky Way over the Alps",
+    "clock": {
+      "x": 0.54,
+      "y": 0.49,
+      "font": 0.43,
+      "width": 0.52,
+      "date": 0.105,
+      "dark": false
+    },
+    "mask": "masks/depth-milky-way.png"
+  },
+  "depth-fuji.jpg": {
+    "title": "Mount Fuji twilight",
+    "clock": {
+      "x": 0.25,
+      "y": 0.355,
+      "font": 0.2584,
+      "width": 0.30400000000000005,
+      "date": 0.105,
+      "dark": false
+    },
+    "mask": "masks/depth-fuji.png"
+  },
+  "depth-rocky-peak.jpg": {
+    "title": "Rocky mountain peak",
+    "clock": {
+      "x": 0.5,
+      "y": 0.48,
+      "font": 0.43,
+      "width": 0.5,
+      "date": 0.105,
+      "dark": true
+    },
+    "mask": "masks/depth-rocky-peak.png"
+  },
+  "depth-singapore-reflections.jpg": {
+    "title": "Singapore night reflections",
+    "clock": {
+      "x": 0.32999999999999996,
+      "y": 0.33999999999999997,
+      "font": 0.2444,
+      "width": 0.40419999999999995,
+      "date": 0.105,
+      "dark": false
+    },
+    "mask": "masks/depth-singapore-reflections.png"
+  },
+  "depth-singapore-skyline.jpg": {
+    "title": "Singapore colorful skyline",
+    "clock": {
+      "x": 0.28,
+      "y": 0.36,
+      "font": 0.26,
+      "width": 0.43,
+      "date": 0.105,
+      "dark": false
+    },
+    "mask": "masks/depth-singapore-skyline.png"
+  },
+  "depth-snow-stars.jpg": {
+    "title": "Snow mountains and stars",
+    "clock": {
+      "x": 0.49,
+      "y": 0.48,
+      "font": 0.43,
+      "width": 0.5,
+      "date": 0.105,
+      "dark": false
+    },
+    "mask": "masks/depth-snow-stars.png"
+  },
+  "depth-sunrise-summit.jpg": {
+    "title": "Sunrise snowy summit",
+    "clock": {
+      "x": 0.25,
+      "y": 0.4,
+      "font": 0.3116,
+      "width": 0.36079999999999995,
+      "date": 0.105,
+      "dark": false
+    },
+    "mask": "masks/depth-sunrise-summit.png"
+  },
+  "depth-mountain.png": {
+    "title": "Cinematic mountain",
+    "clock": {
+      "x": 0.5,
+      "y": 0.5,
+      "font": 0.45,
+      "width": 0.5,
+      "date": 0.105,
+      "dark": false
+    },
+    "mask": "masks/depth-mountain.png"
+  }
+}
