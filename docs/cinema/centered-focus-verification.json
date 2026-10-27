@@ -1,0 +1,23 @@
+{
+  "selected": {
+    "box": [
+      62,
+      831,
+      357,
+      1014
+    ],
+    "centerY": 922.5,
+    "height": 184
+  },
+  "unselected": {
+    "box": [
+      74,
+      838,
+      364,
+      1007
+    ],
+    "centerY": 922.5,
+    "height": 170
+  },
+  "centerShiftPixels": 0.0
+}

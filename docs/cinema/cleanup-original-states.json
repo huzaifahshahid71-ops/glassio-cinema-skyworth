@@ -1,0 +1,18 @@
+[
+  {
+    "package": "com.smartdevice.epopplayer",
+    "enabled": 0
+  },
+  {
+    "package": "com.coocaa.demonow.lightining",
+    "enabled": 0
+  },
+  {
+    "package": "com.smartdevice.recommendation",
+    "enabled": 1
+  },
+  {
+    "package": "com.google.android.feedback",
+    "enabled": 0
+  }
+]

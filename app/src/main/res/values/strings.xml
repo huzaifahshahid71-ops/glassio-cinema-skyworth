@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glassio Cinema</string>
+    <string name="accessibility_description">Brings Glassio to the front when the Home button opens the stock launcher.</string>
+</resources>
+
